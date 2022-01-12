@@ -1,0 +1,72 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/oca/website.git
+	branch = 15.0
+[submodule "wms"]
+	path = wms
+	url = https://github.com/oca/wms.git
+	branch = 15.0
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/OCA/rest-framework.git
+	branch = 15.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 15.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = 15.0
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/OCA/server-env.git
+	branch = 15.0
+[submodule "apps-store"]
+	path = apps-store
+	url = https://github.com/oca/apps-store.git
+	branch = 15.0
+[submodule "edi"]
+	path = edi
+	url = https://github.com/oca/edi.git
+	branch = 15.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/oca/knowledge.git
+	branch = 15.0
+[submodule "pms"]
+	path = pms
+	url = https://github.com/oca/pms.git
+	branch = 15.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/oca/reporting-engine.git
+	branch = 15.0
+[submodule "rma"]
+	path = rma
+	url = https://github.com/oca/rma.git
+	branch = 15.0
+[submodule "server-auth"]
+	path = server-auth
+	url = https://github.com/oca/server-auth.git
+	branch = 15.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/oca/server-backend.git
+	branch = 15.0
+[submodule "server-brand"]
+	path = server-brand
+	url = https://github.com/oca/server-brand.git
+	branch = 15.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/oca/server-tools.git
+	branch = 15.0
+[submodule "Server-ux"]
+	path = Server-ux
+	url = https://github.com/oca/Server-ux.git
+	branch = 15.0
+[submodule "web"]
+	path = web
+	url = https://github.com/oca/web.git
+	branch = 15.0
