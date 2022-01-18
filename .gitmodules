@@ -80,3 +80,8 @@
 	path = RLJO/goldenvape2019
 	url = git@github.com:RLJO/goldenvape2019.git
 	branch = Master
+
+[submodule "almoasherbiz/kmt"]
+	path = almoasherbiz/kmt
+	url = git@github.com:almoasherbiz/kmt.git
+	branch = main
