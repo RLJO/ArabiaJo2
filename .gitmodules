@@ -70,3 +70,8 @@
 	path = web
 	url = https://github.com/oca/web.git
 	branch = 15.0
+
+[submodule "RLJO/airo15"]
+	path = RLJO/airo15
+	url = git@github.com:RLJO/airo15.git
+	branch = main
