@@ -1,0 +1,44 @@
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 15.0
+[submodule "edi"]
+	path = edi
+	url = https://github.com/OCA/edi.git
+	branch = 15.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 15.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 15.0
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/OCA/rest-framework.git
+	branch = 15.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA/server-backend.git
+	branch = 15.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = 15.0
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/OCA/server-env.git
+	branch = 15.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 15.0
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = 15.0
+[submodule "website"]
+	path = website
+	url = https://github.com/OCA/website.git
+	branch = 15.0
