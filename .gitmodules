@@ -47,3 +47,8 @@
 	path = esakarya/sh_corpomate_theme
 	url = git@github.com:esakarya/sh_corpomate_theme.git
 	branch = 15.0
+
+[submodule "odoomates/odooapps"]
+	path = odoomates/odooapps
+	url = git@github.com:odoomates/odooapps.git
+	branch = 15.0
