@@ -62,3 +62,8 @@
 	path = repair
 	url = git@github.com:OCA/repair.git
 	branch = 15.0
+
+[submodule "currency"]
+	path = currency
+	url = git@github.com:OCA/currency.git
+	branch = 15.0
