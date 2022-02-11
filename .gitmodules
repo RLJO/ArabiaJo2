@@ -97,3 +97,8 @@
 	path = maintenance
 	url = git@github.com:OCA/maintenance.git
 	branch = 15.0
+
+[submodule "manufacture-reporting"]
+	path = manufacture-reporting
+	url = git@github.com:OCA/manufacture-reporting.git
+	branch = 15.0
