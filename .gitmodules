@@ -57,3 +57,8 @@
 	path = brand
 	url = git@github.com:OCA/brand.git
 	branch = 15.0
+
+[submodule "repair"]
+	path = repair
+	url = git@github.com:OCA/repair.git
+	branch = 15.0
