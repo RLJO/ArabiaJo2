@@ -77,3 +77,8 @@
 	path = operating-unit
 	url = git@github.com:OCA/operating-unit.git
 	branch = 15.0
+
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 15.0
