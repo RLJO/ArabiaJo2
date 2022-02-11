@@ -42,3 +42,8 @@
 	path = website
 	url = https://github.com/OCA/website.git
 	branch = 15.0
+
+[submodule "esakarya/sh_corpomate_theme"]
+	path = esakarya/sh_corpomate_theme
+	url = git@github.com:esakarya/sh_corpomate_theme.git
+	branch = 15.0
