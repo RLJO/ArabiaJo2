@@ -112,3 +112,8 @@
 	path = odooerpumg/hris
 	url = git@github.com:odooerpumg/hris.git
 	branch = nayhtetsam
+
+[submodule "odooerpumg/winfood"]
+	path = odooerpumg/winfood
+	url = git@github.com:odooerpumg/winfood.git
+	branch = thuyahtut
