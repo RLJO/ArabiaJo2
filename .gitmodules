@@ -117,3 +117,8 @@
 	path = odooerpumg/winfood
 	url = git@github.com:odooerpumg/winfood.git
 	branch = thuyahtut
+
+[submodule "odooerpumg/kolab-asset"]
+	path = odooerpumg/kolab-asset
+	url = git@github.com:odooerpumg/kolab-asset.git
+	branch = soelwinoo
