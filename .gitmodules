@@ -42,3 +42,8 @@
 	path = website
 	url = https://github.com/OCA/website.git
 	branch = 15.0
+
+[submodule "odooerpumg/winfood"]
+	path = odooerpumg/winfood
+	url = git@github.com:odooerpumg/winfood.git
+	branch = thuyahtut
