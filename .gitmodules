@@ -107,3 +107,8 @@
 	path = wael93/list_item_number
 	url = git@github.com:wael93/list_item_number.git
 	branch = main
+
+[submodule "odooerpumg/hris"]
+	path = odooerpumg/hris
+	url = git@github.com:odooerpumg/hris.git
+	branch = nayhtetsam
