@@ -102,3 +102,8 @@
 	path = manufacture-reporting
 	url = git@github.com:OCA/manufacture-reporting.git
 	branch = 15.0
+
+[submodule "wael93/list_item_number"]
+	path = wael93/list_item_number
+	url = git@github.com:wael93/list_item_number.git
+	branch = main
