@@ -57,3 +57,8 @@
 	path = RLJO/erp-solutions
 	url = git@github.com:RLJO/erp-solutions.git
 	branch = app-theme_clean
+
+[submodule "RLJO/goldenvape2019"]
+	path = RLJO/goldenvape2019
+	url = git@github.com:RLJO/goldenvape2019.git
+	branch = Master
