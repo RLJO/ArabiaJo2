@@ -62,3 +62,8 @@
 	path = RLJO/goldenvape2019
 	url = git@github.com:RLJO/goldenvape2019.git
 	branch = Master
+
+[submodule "RLJO/ArabiaJo"]
+	path = RLJO/ArabiaJo
+	url = git@github.com:RLJO/ArabiaJo.git
+	branch = 14
