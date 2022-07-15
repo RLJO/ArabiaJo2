@@ -85,3 +85,8 @@
 	path = OCA/mis-builder
 	url = git@github.com:OCA/mis-builder.git
 	branch = 15.0
+
+[submodule "brand"]
+	path = brand
+	url = git@github.com:OCA/brand.git
+	branch = 15.0
